@@ -1,0 +1,1 @@
+This is a short HTML training project on the odin-project. I hope to learn about the use of Github and writing simple HTML code.
